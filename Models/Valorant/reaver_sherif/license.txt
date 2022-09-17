@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reaver Sherif
+* source:	https://sketchfab.com/3d-models/reaver-sherif-94c17a4f625d44e3817d8e603e6a14d1
+* author:	reaperslayz (https://sketchfab.com/reaperslayz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reaver Sherif" (https://sketchfab.com/3d-models/reaver-sherif-94c17a4f625d44e3817d8e603e6a14d1) by reaperslayz (https://sketchfab.com/reaperslayz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

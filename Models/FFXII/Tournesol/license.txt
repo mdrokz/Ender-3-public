@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tournesol - FFXII
+* source:	https://sketchfab.com/3d-models/tournesol-ffxii-14e966f0256a4a949a5a876f7aecab8c
+* author:	Allyson Valesko (https://sketchfab.com/allysonvalesko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tournesol - FFXII" (https://sketchfab.com/3d-models/tournesol-ffxii-14e966f0256a4a949a5a876f7aecab8c) by Allyson Valesko (https://sketchfab.com/allysonvalesko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
